@@ -11,7 +11,7 @@
 
 ---
 
-Go-to-market &amp; marketing leader who ships. **Aurics.AI** is my studio for building and implementing AI-native tools that create, measure, and improve how products and brands show up for human prospects and AI agents in search and go-to-market — any company, any category, any stage.
+Go-to-market &amp; marketing leader who ships. **Aurics.AI** is my studio for building and implementing AI-native tools that create, measure, and improve how products and brands show up for human prospects and AI agents in search and go-to-market — and can be used by any company, any category, at any stage.
 
 ## 🧰 What I've Built
 
