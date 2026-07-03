@@ -27,4 +27,4 @@ A systematic framework for consistent, persona-adapted messaging across every ch
 
 ---
 
-<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Questions or comments on marketing and GTM built with AI at the center? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></p>
+<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Questions or comments on marketing and GTM built with AI at the center? <a href="https://www.linkedin.com/in/raina7sri/">Connect with me on LinkedIn →</a></p>
