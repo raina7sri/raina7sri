@@ -6,7 +6,7 @@
 <p align="center"><em>Building AI-Native GTM. From Strategy to Tools.</em></p>
 <p align="center">
   <a href="https://aurics.ai"><b>🌐 aurics.ai</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/raina7sri/"><b>💼 LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/raina7sri/"><b> LinkedIn</b></a>
 </p>
 
 ---
