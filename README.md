@@ -17,7 +17,7 @@ Go-to-market &amp; marketing leader who ships. **Aurics.AI** is my studio for bu
 
 ### 🔹 [AI Visibility Scorecard](https://github.com/raina7sri/ai-visibility-scorecard) &nbsp;·&nbsp; `Live · Open Source`
 Measures how **ChatGPT, Gemini, Perplexity &amp; Claude** recommend, mention &amp; cite a brand when buyers ask category questions — the metric traditional SEO tools miss.
-**Field-tested in production:** 67% recommendation · 46% citation · 46% share of voice across 4 AI assistants.
+**Field-tested in production:** 67% recommendation · 46% citation · 46% share of voice across 4 AI assistants - with recommendations on how to keep improving.
 → **[Try it live](https://raina7sri.github.io/ai-visibility-scorecard/)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/ai-visibility-scorecard)**
 
 ### 🔹 Messaging Operating System &nbsp;·&nbsp; `In Development`
@@ -27,4 +27,4 @@ A systematic framework for consistent, persona-adapted messaging across every ch
 
 ---
 
-<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Questions or comments on AI-native GTM? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></p>
+<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Questions or comments on marketing and GTM with built with AI at the center? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></p>
