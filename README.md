@@ -23,7 +23,7 @@ Measures how **ChatGPT, Gemini, Perplexity &amp; Claude** recommend, mention &am
 ### 🔹 [Customer Response Engine](https://github.com/raina7sri/response-engine) &nbsp;·&nbsp; `Live · Open Source`
 A reusable AI-native workflow for customer responses. **AI Reasoning** interprets the message and applies an approved playbook; the human keeps business-context decisions and the final send.
 **Live in production:** an explainable, human-in-the-loop drafting engine that turns a customer outreach into a governed, brand-aligned response accompanied by a response analysis.
-→ **[Try it live](https://customer-response-engine.lovable.app)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/response-engine)**
+→ **[Try it live](https://raina7sri.github.io/response-engine/)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/response-engine)**
 
 ### 🔹 Messaging Operating System &nbsp;·&nbsp; `In Development`
 A systematic framework for consistent, persona-adapted messaging across every channel, customer-journey stage, and content type — with AEO requirements built in at every point to ensure AI visibility.
