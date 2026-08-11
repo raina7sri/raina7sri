@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://aurics.ai"><b>🌐 aurics.ai</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/raina7sri/"><b>💼 LinkedIn</b></a>
+  <a href="https://gtmbuilder.substack.com/"><b> Substack</b></a>
 </p>
 
 ---
@@ -33,3 +34,4 @@ A systematic framework for consistent, persona-adapted messaging across every ch
 ---
 
 <p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Hiring for AI-native GTM? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></p>
+<a href="https://https://gtmbuilder.substack.com/"> Building AI-Native GTM→</a></p>
