@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Raina — AI-Native GTM &amp; Marketing</h1>
-<p align="center"><em>Building AI-Native GTM. From Strategy to Tools.</em></p>
+<p align="center"><em>Building AI-Native GTM and Marketing. From Strategy to Tools.</em></p>
 <p align="center">
   <a href="https://aurics.ai"><b>🌐 aurics.ai</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/raina7sri/"><b>🌐 LinkedIn</b></a> &nbsp;·&nbsp;
@@ -33,5 +33,5 @@ A systematic framework for consistent, persona-adapted messaging across every ch
 
 ---
 
-<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Hiring for AI-native GTM? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></p>
-<a href="https://https://gtmbuilder.substack.com/"> Building AI-Native GTM→</a></p>
+<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Hiring for AI-native GTM & Marketing? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></p>
+&nbsp;·&nbsp; <a href="https://https://gtmbuilder.substack.com/"> Building AI-Native GTM→</a></p>
