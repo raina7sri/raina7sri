@@ -33,5 +33,4 @@ A systematic framework for consistent, persona-adapted messaging across every ch
 
 ---
 
-<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Hiring for AI-native GTM & Marketing? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></p>
-&nbsp;·&nbsp; Read the GTM Builder Substack <a href="https://https://gtmbuilder.substack.com/"> Building AI-Native GTM→</a></p>
+<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Hiring for AI-native GTM & Marketing? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a></b></p>&nbsp;·&nbsp; Read the GTM Builder Substack <a href="https://https://gtmbuilder.substack.com/"> Building AI-Native GTM→</a></p>
