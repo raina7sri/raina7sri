@@ -26,6 +26,11 @@ A reusable AI-native workflow for customer responses. **AI Reasoning** interpret
 **Live in production:** an explainable, human-in-the-loop drafting engine that turns a customer outreach into a governed, brand-aligned response accompanied by a response analysis.
 → **[Try it live](https://raina7sri.github.io/response-engine/)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/response-engine)**
 
+### 🔹 [Customer Proof AI Layer](https://github.com/raina7sri/customer-proof-ai-layer) &nbsp;·&nbsp; `Live · Open Source`
+Turns transcripts, QBR notes and call excerpts into governed **Customer Proof Records** that Sales, CS, Marketing, Website and AR/PR can reuse — without anyone overstating the claim. **AI structures the proof; humans decide the claim scope.**
+**Rebuilding Customer Advocacy &amp; Marketing to be AI-Native:** one approved record generates five role-specific outputs, each governance-checked, with excluded claims listed and reasoned.
+→ **[Try it live](https://raina7sri.github.io/customer-proof-ai-layer/)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/customer-proof-ai-layer)**
+
 ### 🔹 Messaging Operating System &nbsp;·&nbsp; `In Development`
 A systematic framework for consistent, persona-adapted messaging across every channel, customer-journey stage, and content type — with AEO requirements built in at every point to ensure AI visibility.
 
@@ -33,5 +38,10 @@ A systematic framework for consistent, persona-adapted messaging across every ch
 
 ---
 
-<p align="center"><b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp; Hiring for AI-native GTM & Marketing? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a>
-<p align="center"></b>&nbsp;·&nbsp; Read the GTM Builder Substack <a href="https://https://gtmbuilder.substack.com/"> Building AI-Native GTM→</a>
+<p align="center">
+  <b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp;
+  Hiring for AI-native GTM &amp; Marketing? <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a>
+</p>
+<p align="center">
+  Read the GTM Builder Substack → <a href="https://gtmbuilder.substack.com/">Building AI-Native GTM</a>
+</p>
