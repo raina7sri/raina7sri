@@ -2,8 +2,8 @@
   <img src="logo.svg" width="240" alt="Aurics.ai">
 </p>
 
-<h1 align="center">Raina — AI-Native GTM &amp; Marketing</h1>
-<p align="center"><em>Building AI-Native GTM and Marketing. From Strategy to Tools.</em></p>
+<h1 align="center">Raina Srivastava </h1>
+<p align="center"><em>Building AI-Native Marketing and GTM. From Strategy to Tools.</em></p>
 <p align="center">
   <a href="https://aurics.ai"><b>🌐 aurics.ai</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/raina7sri/"><b>🌐 LinkedIn</b></a> &nbsp;·&nbsp;
@@ -12,13 +12,15 @@
 
 ---
 
-Go-to-market &amp; marketing leader who ships. **Aurics.AI** is my studio for building and implementing AI-native tools that create, measure, and improve how products and brands show up for human prospects and AI agents in search and go-to-market — any company, any category, any stage.
+Go-to-market &amp; marketing leader who ships. 
+**Aurics.AI** is my studio and portfolio for building, implementing, and showcasing AI-Native tools that create, measure, and improve how products and brands show up for humans and AI agents in search and go-to-market. 
+I build to apply these across any team, company, category, or stage.
 
-## 🧰 What I've Built
+## 🧰 What I've Been Building
 
 ### 🔹 [AI Visibility Scorecard](https://github.com/raina7sri/ai-visibility-scorecard) &nbsp;·&nbsp; `Live · Open Source`
 Measures how **ChatGPT, Gemini, Perplexity &amp; Claude** recommend, mention &amp; cite a brand when buyers ask category questions — the metric traditional SEO tools miss.
-**Field-tested in production:** 67% recommendation · 46% citation · 46% share of voice across 4 AI assistants.
+**Field-tested in production:** 67% recommendation · 72% mention · 2.6 Average Position · 46% share of voice across 4 AI assistants.
 → **[Try it live](https://raina7sri.github.io/ai-visibility-scorecard/)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/ai-visibility-scorecard)**
 
 ### 🔹 [Customer Response Engine](https://github.com/raina7sri/response-engine) &nbsp;·&nbsp; `Live · Open Source`
@@ -27,7 +29,7 @@ A reusable AI-native workflow for customer responses. **AI Reasoning** interpret
 → **[Try it live](https://raina7sri.github.io/response-engine/)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/response-engine)**
 
 ### 🔹 [Customer Proof AI Layer](https://github.com/raina7sri/customer-proof-ai-layer) &nbsp;·&nbsp; `Live · Open Source`
-Turns transcripts, QBR notes and call excerpts into governed **Customer Proof Records** that Sales, CS, Marketing, Website and AR/PR can reuse — without anyone overstating the claim. **AI structures the proof; humans decide the claim scope.**
+Turns transcripts, QBR notes and call excerpts into governed **Customer Proof Records** that Sales, CS, Marketing, Website and AR/PR can reuse - without anyone overstating the claim. **AI structures the proof; humans decide the claim scope.**
 **Rebuilding Customer Advocacy &amp; Marketing to be AI-Native:** one approved record generates five role-specific outputs, each governance-checked, with excluded claims listed and reasoned.
 → **[Try it live](https://raina7sri.github.io/customer-proof-ai-layer/)** &nbsp;·&nbsp; **[Source](https://github.com/raina7sri/customer-proof-ai-layer)**
 
