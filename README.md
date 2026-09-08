@@ -40,7 +40,7 @@ A systematic framework for consistent, persona-adapted messaging across every ch
 
 <p align="center">
   <b>See everything live → <a href="https://aurics.ai">aurics.ai</a></b> &nbsp;·&nbsp;
-  Connect with me about AI-native GTM &amp; Marketing <a href="https://www.linkedin.com/in/raina7sri/">Let's talk →</a>
+  Connect with me about AI-native GTM &amp; Marketing <a href="https://www.linkedin.com/in/raina7sri/"> LinkedIn </a>
 </p>
 <p align="center">
   Read the GTM Builder Substack → <a href="https://gtmbuilder.substack.com/">Building AI-Native GTM</a>
